@@ -1,6 +1,10 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there! <img src="https://raw.githubusercontent.com/birkkensen/birkkensen/main/images/wave.gif" width="30px">
 
-My name is Birk Kensén and I'm currently studying the Frontend Developer program at Hyper Island in Stockholm. You can find me on <a href="https://www.linkedin.com/in/birkkensen/" target="_blank"><img src="https://raw.githubusercontent.com/birkkensen/birkkensen/master/images/linkedin.svg" width="15px"></a>, or on <a href="https://www.instagram.com/birkkensen/" target="_blank"><img src="https://raw.githubusercontent.com/birkkensen/birkkensen/master/images/instagram.svg" width="15px"></a>.
+My name is Birk Kensén and I'm currently studying the Frontend Developer program at Hyper Island in Stockholm. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/birkkensen)](https://www.linkedin.com/in/birkkensen), or on 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-405DE6?style=rounded-square&logo=instagram&logoColor=white&link=https://www.instagram.com/birkkensen)](https://www.instagram.com/birkkensen)
+
+
+<!--**<a href="https://www.linkedin.com/in/birkkensen/" target="_blank"><img src="https://raw.githubusercontent.com/birkkensen/birkkensen/main/images/linkedin.svg" width="15px"></a>, or on <a href="https://www.instagram.com/birkkensen/" target="_blank"><img src="https://raw.githubusercontent.com/birkkensen/birkkensen/main/images/instagram.svg" width="15px"></a>.**-->
 
 ### :fried_egg: :skier: Hobbies and Interests
 
