@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/birkkensen/birkkensen/main/images/wave.gif" width="30px">
 
-My name is Birk Kensén and I'm currently studying the Frontend Developer program at Hyper Island in Stockholm. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/birkkensen)](https://www.linkedin.com/in/birkkensen), or on 
+My name is Birk Kensén, I'm currently studying the Frontend Developer program at Hyper Island in Stockholm. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/birkkensen)](https://www.linkedin.com/in/birkkensen), or on 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-405DE6?style=rounded-square&logo=instagram&logoColor=white&link=https://www.instagram.com/birkkensen)](https://www.instagram.com/birkkensen)
 
 
@@ -10,7 +10,7 @@ My name is Birk Kensén and I'm currently studying the Frontend Developer progra
 
 Apart from spending time behind the computer, I like cooking (mostly asian food), skiing, listening to music, 3D-printing and traveling. A dream of mine is to travel to Japan for skiing, enjoying the food and culture, and climbing Mt Fuji. 
 
-### :chart_with_upwards_trend: Github Stats
+### 👨‍💻 Some fun stats:)
 
 <a href="https://github.com/birkkensen/birkkensen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birkkensen&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
