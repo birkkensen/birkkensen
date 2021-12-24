@@ -8,7 +8,7 @@ My name is Birk Kensén, I'm currently studying the Frontend Developer program a
 
 ### :fried_egg: :skier: Hobbies and Interests
 
-Apart from spending time behind the computer, I like cooking, skiing, listening to music, 3D-printing and traveling. A dream of mine is to travel to Japan for skiing, enjoying the food and culture, and climbing Mt Fuji. 
+Apart from spending time behind the computer, I like cooking, skiing, listening to music, 3D-printing and traveling. A dream of mine is to travel to Japan for skiing, enjoy the food and culture, and climb Mt Fuji. 
 
 ### 👨‍💻 Some fun stats:)
 
