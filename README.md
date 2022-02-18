@@ -20,9 +20,9 @@ Apart from spending time behind the computer, I like cooking, skiing, listening 
 </a>
 
 <a href="https://github.com/birkkensen/SR-radio-remake-but-in-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=birkkensen&repo=jumperProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=birkkensen&repo=SR-radio-remake-but-in-react&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 <a href="https://github.com/birkkensen/SpacePong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=birkkensen&repo=Pong&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=birkkensen&repo=SpacePong&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
