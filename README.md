@@ -9,20 +9,3 @@ I’m currently studying the Frontend Developer program at Hyper Island in Stock
 ### :fried_egg: :skier: Hobbies and Interests
 
 Apart from spending time behind the computer, I like cooking, skiing, listening to music, 3D-printing and traveling. A dream of mine is to travel to Japan for skiing, enjoy the food and culture, and climb Mt Fuji. 
-
-### 👨‍💻 Some fun stats:)
-
-<a href="https://github.com/birkkensen/birkkensen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birkkensen&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2C3E56&langs_count=4" />
-</a>
-<a href="https://github.com/birkkensen/birkkensen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=birkkensen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2C3E56" alt="Birk's GitHub Stats" />
-</a>
-
-<a href="https://github.com/birkkensen/portfolio-next-ts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=birkkensen&repo=portfolio-next-ts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2C3E56" />
-</a> 
-
-<a href="https://github.com/birkkensen/data-interaction-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=birkkensen&repo=data-interaction-backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2C3E56" />
-</a>
