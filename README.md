@@ -1,6 +1,8 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/birkkensen/birkkensen/main/images/wave.gif" width="30px">
 
-I’m currently studying the Frontend Developer program at Hyper Island in Stockholm. Now, I’m looking for an internship, starting in late September this year. I love programming because it allows me to be creative both when designing and when solving problems. <br/> <br/> Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/birkkensen)](https://www.linkedin.com/in/birkkensen), and on 
+I am soon graduating from Hyper Island. I am currently finishing up my internship at G-Loot, where I have been working as a frontend developer. Throughout my time at G-Loot, I have gained a strong understanding of technologies such as React and TypeScript. I have also had the opportunity to lead the frontend team of interns, giving me valuable experience in team management and leadership. I am now actively seeking a full-time position as a frontend developer, where I can continue to grow and develop my skills in this field and pursue my love for coding.
+
+Don't hesitate to contact me if you wish to know more about me. <br/> <br/> Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounded-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/birkkensen)](https://www.linkedin.com/in/birkkensen), and on 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-405DE6?style=rounded-square&logo=instagram&logoColor=white&link=https://www.instagram.com/birkkensen/)](https://www.instagram.com/birkkensen/)
 
 
